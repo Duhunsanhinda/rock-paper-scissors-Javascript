@@ -1,3 +1,3 @@
 # rock-paper-scissors Javascript
  
-// Simple rock-paper-scissors using javascript//
+// Simple game of rock-paper-scissors using javascript//
